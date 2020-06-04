@@ -1,1 +1,1 @@
-pw='cubga1-hupsah-Zimsyt'
+pw='ikonyabot1'
